@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="home">Home</string>	
+	<string name="settings">Einstellungen</string>
+	<string name="openWindow">Neues Fenster öffnen</string>
+	<string name="newWindow">Neues Fenster</string>
+	<string name="help">Hilfe</string>
+	<string name="refresh">Aktualisieren</string>
+	<string name="about">About</string>
+</resources>
