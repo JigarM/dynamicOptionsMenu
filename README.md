@@ -18,3 +18,6 @@ Titanium does not support Fragments. Otherwise, it would be possible to define s
 ![Screenshot 1](https://raw.github.com/manumaticx/dynamicOptionsMenu/master/images/android4X.png)
 
 ![Screenshot 1](https://raw.github.com/manumaticx/dynamicOptionsMenu/master/images/android2X.png)
+
+##note
+If you understand german, here's a related [blog post](http://manumaticx.blogspot.de/2013/06/dynamische-optionsmenus-in-android.html) with detailed HowTo
